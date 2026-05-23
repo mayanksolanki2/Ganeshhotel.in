@@ -26,12 +26,12 @@ const trustFeatures = [
 ]
 
 const quickLinks = [
-  { label: "Home", href: "#home" },
-  { label: "About Us", href: "#about" },
-  { label: "Rooms", href: "#rooms" },
-  { label: "Restaurant & Bar", href: "#restaurant" },
-  { label: "Gallery", href: "#gallery" },
-  { label: "Contact", href: "#contact" },
+  { label: "Home", href: "/" },
+  { label: "About Us", href: "/about" },
+  { label: "Rooms", href: "/rooms" },
+  { label: "Restaurant & Bar", href: "/restaurant" },
+  { label: "Gallery", href: "/gallery" },
+  { label: "Contact", href: "/contact" },
 ]
 
 const socialLinks = [
